@@ -9,7 +9,7 @@ const Header = () => {
           <img src={logo} alt="logo" />
         </a>
       </div>
-      <h1>RUSE Report</h1>
+      <h1>Simple Table</h1>
     </div>
   );
 };

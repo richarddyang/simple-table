@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ophelia",
+    "last_name": "Rays",
+    "email": "orays0@telegraph.co.uk",
+    "gender": "Female",
+    "ip_address": "253.199.197.171"
+  },
+  {
+    "id": 2,
+    "first_name": "Man",
+    "last_name": "Catley",
+    "email": "mcatley1@reddit.com",
+    "gender": "Male",
+    "ip_address": "250.89.243.50"
+  },
+  {
+    "id": 3,
+    "first_name": "Cassandra",
+    "last_name": "Goldine",
+    "email": "cgoldine2@ucoz.com",
+    "gender": "Female",
+    "ip_address": "134.68.119.112"
+  },
+  {
+    "id": 4,
+    "first_name": "Fifine",
+    "last_name": "Selman",
+    "email": "fselman3@google.co.uk",
+    "gender": "Female",
+    "ip_address": "100.17.244.21"
+  },
+  {
+    "id": 5,
+    "first_name": "Linet",
+    "last_name": "Plane",
+    "email": "lplane4@list-manage.com",
+    "gender": "Female",
+    "ip_address": "207.182.238.34"
+  },
+  {
+    "id": 6,
+    "first_name": "Loralie",
+    "last_name": "Hailston",
+    "email": "lhailston5@weather.com",
+    "gender": "Female",
+    "ip_address": "253.117.47.8"
+  },
+  {
+    "id": 7,
+    "first_name": "Charity",
+    "last_name": "Huff",
+    "email": "chuff6@umich.edu",
+    "gender": "Female",
+    "ip_address": "176.247.211.217"
+  },
+  {
+    "id": 8,
+    "first_name": "Ax",
+    "last_name": "Sorey",
+    "email": "asorey7@elpais.com",
+    "gender": "Male",
+    "ip_address": "94.3.12.88"
+  },
+  {
+    "id": 9,
+    "first_name": "Rhody",
+    "last_name": "Fetherston",
+    "email": "rfetherston8@nyu.edu",
+    "gender": "Female",
+    "ip_address": "159.128.227.80"
+  },
+  {
+    "id": 10,
+    "first_name": "Donelle",
+    "last_name": "OIlier",
+    "email": "doilier9@irs.gov",
+    "gender": "Female",
+    "ip_address": "9.49.221.241"
+  }
+]

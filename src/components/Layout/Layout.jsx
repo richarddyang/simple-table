@@ -1,14 +1,12 @@
-import "./Layout.css"
+import "./Layout.css";
 import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 
-const Layout = ({children}) => {
+const Layout = ({ children }) => {
   return (
     <div className="layout_container">
       <Header />
-      <main className="hero_container">
-        {children}
-      </main>
+      <main className="main_container">{children}</main>
       <Footer />
     </div>
   );

@@ -1,0 +1,40 @@
+.header_container {
+  height: 4rem;
+  position: sticky;
+  top: 0px;
+  background-color: white;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --tw-shadow-color: #cbd5e1;
+  z-index: 50;
+}
+
+.header_container h1 {
+  grid-column: span 1 / span 1;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+.header_logo {
+  position: relative;
+  grid-column: span 1 / span 1;
+}
+
+.header_logo a {
+  position: absolute;
+  height: 2.5rem;
+  margin-left: 1rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.header_logo a img {
+  object-fit: fill;
+  height: 100%;
+}

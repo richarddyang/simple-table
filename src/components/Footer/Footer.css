@@ -1,0 +1,18 @@
+.footer_container {
+  height: 4rem;
+  background-color: white;
+  border-top: 1px solid #cbd5e1;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.footer_container a {
+  grid-column: span 1 / span 1;
+  margin: auto;
+  text-decoration: none;
+  color: black;
+}
+
+.footer_container a:hover {
+  color: blue;
+}

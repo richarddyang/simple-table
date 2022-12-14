@@ -1,0 +1,11 @@
+.layout_container {
+    flex-shrink: 1;
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+.hero_container {
+    min-height: 93vh;
+    display: grid;
+    place-items: center;
+}

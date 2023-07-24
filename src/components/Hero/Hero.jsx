@@ -5,7 +5,7 @@ import "./Hero.css";
 import Table from "../Table/Table";
 import Pagination from "../Pagination/Pagination";
 
-const API_URL = "http://localhost:5000"
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000"
 
 const Hero = () => {
   ///////////////////////////STATE INFO///////////////////////////////////////////////
